@@ -7,7 +7,7 @@
 - TIPOS DE DADOS
 - TIPOS UTILITÁRIOS
 - MÉTODOS DE ARRAYS
-- 
+
 ## O que eu já sei sobre os assuntos que serão abordados nesse módulo?
 
 - SEI O BASICO INICIAL DAS FUNÇÕES POR APRENDER EM OUTROS LUGARES E PLATAFORMAS
