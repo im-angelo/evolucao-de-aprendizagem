@@ -17,7 +17,7 @@
 
 - QUERO APRENDER A MELHORAR O MEU TEMPO EM CADA ATIVIDADE, OU EXERCICIO
 - QUERO SER MAIS RAPIDO, EFICIENTE E FOCADO NA SOLUÇÃO
-- 
+
 
 ## Minha evolução: o que aprendi sobre os assuntos que foram abordados nesse módulo?
 
