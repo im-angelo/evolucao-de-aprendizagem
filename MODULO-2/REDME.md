@@ -21,4 +21,9 @@
 
 ## Minha evolução: o que aprendi sobre os assuntos que foram abordados nesse módulo?
 
+- APRENDI A USAR O METODO DE ARRAYS, SLICE
+- APRENDI A ACESSAR A PROPRIEDADE DE UM OBJETO
+- APRENDI A CALCULAR CADA PROPRIEDADE DE OBJETO
+- Gestão de tempo
+- Postura Profissiona
 
